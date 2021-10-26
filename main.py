@@ -6,4 +6,4 @@ def fancy_hello_world():
 ─▄▄──█░░░▀█▀░░░█──▄▄─
 █░░█─▀▄░░░░░░░▄▀─█░░█
 """
-print(fancy_string)
+ print(fancy_string)
